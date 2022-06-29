@@ -1,6 +1,6 @@
 Hi my name is Gabriel, I'm ex-Biomedical Science student new to programming :)
 
-I'm currently pursuing a Computer Science degree and I'm trying to improve my OOP and algorithm skills.
+I'm currently pursuing a Computer Science degree
 
 
 <!---
