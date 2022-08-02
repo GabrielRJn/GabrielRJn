@@ -1,6 +1,3 @@
-Hi my name is Gabriel, I'm ex-Biomedical Science student new to programming :)
-
-I'm currently pursuing a Computer Science degree
 
 
 <!---
