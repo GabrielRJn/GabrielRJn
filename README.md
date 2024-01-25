@@ -18,7 +18,7 @@ Nicknames: Gab/Gabby
 
 Interests: backend technologies, web development, cloud ,games, art, netflix 
 
-Fun fact: In my first year of CS, there were no other girls in my class 😢
+Fun fact: I didnt see any girls on my course for a solid year 😢
 
 ### Take care 👋
 
