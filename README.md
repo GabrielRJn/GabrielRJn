@@ -4,12 +4,6 @@ Close to graduation now, so I've decided to spend more than 30 seconds to write 
 
 ### I've always wanted to learn about computers, I'm still learning now, and I love to learn about them! I am using university to start my journey of becoming more technically literate and grow my capabilities. I am looking for the next place I will be able to challenge myself.
 
-# Current projects 💻
-
-1. Final project ✨
-2. Portfolio website
-3. Restaurant website
-
 # Currently learning 🌱
 
 1. Node JS & Deno.js, GraphQL APIs, Authentication and MongoDB
