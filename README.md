@@ -1,7 +1,3 @@
-
- 
-
-
 Close to graduation now, so I've decided to spend more than 30 seconds to write my GitHub README haha.
 
 ### My name is Gabriel, I'm a student that dropped out of Biomedical Sciences to pursue Computer Science with no knowledge other than how to make a C++ snake game from YouTube.  It was the best decision I've ever made.
@@ -14,17 +10,11 @@ Close to graduation now, so I've decided to spend more than 30 seconds to write 
 2. Portfolio website
 3. Restaurant website
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRJn&layout=compact)
-
-
-
-
 # Currently learning 🌱
 
 1. Node JS & Deno.js, GraphQL APIs, Authentication and MongoDB
 2. React ✨
 3. Design patterns and microservices
-
 
 # Other 
 
