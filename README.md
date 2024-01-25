@@ -1,8 +1,10 @@
 Close to graduation now, so I've decided to spend more than 30 seconds to write my GitHub README haha.
 
-### My name is Gabriel, I'm a student that dropped out of Biomedical Sciences to pursue Computer Science with no knowledge other than how to make a C++ snake game from YouTube.  It was the best decision I've ever made.
+ My name is Gabriel, I'm a student that dropped out of Biomedical Sciences to pursue Computer Science with no knowledge other than how to make a C++ snake game from YouTube.  
 
-### I've always wanted to learn about computers, I'm still learning now, and I love to learn about them! I am using university to start my journey of becoming more technically literate and grow my capabilities. I am looking for the next place I will be able to challenge myself.
+It was the best decision I've ever made.
+
+I've always wanted to learn about computers, I'm still learning now, and I love to learn about them! I am using university to start my journey of becoming more technically literate and grow my capabilities. I am looking for the next place I will be able to challenge myself.
 
 # Currently learning 🌱
 
