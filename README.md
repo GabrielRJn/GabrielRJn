@@ -7,8 +7,6 @@
 
 ### Other 
 
-Nicknames: Gab/Gabby
-
 Interests: backend technologies, web development, cloud ,games, art, netflix, music, journalling
 
 Fun fact: I didnt see any girls on my course for a solid year 😢
