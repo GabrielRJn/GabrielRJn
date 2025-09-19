@@ -10,7 +10,7 @@ Interests: cloud, games, ai, art, netflix, music, journalling
 
 ### Note
 Currently using Azure devops much more than Github
---
+
  **Take care 👋**
 
 
